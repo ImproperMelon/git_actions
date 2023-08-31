@@ -8,4 +8,7 @@
   },
   "author": "immelon",
   "license": "ISC"
+  "publishConfig": {
+	  "@immelon:registry": "https://npm.pkg.github.com"
+  }
 }
