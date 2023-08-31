@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "author": "immelon",
-  "license": "ISC"
+  "license": "ISC",
   "publishConfig": {
 	  "@immelon:registry": "https://npm.pkg.github.com"
   }
